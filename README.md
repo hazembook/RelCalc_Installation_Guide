@@ -1,4 +1,6 @@
-# The main objective of this application is to provide a tool for converting a relational calculus query to SQL query and execute it on a database. This application helps serve students build realtional queries and execute them to verify their corectness
+# The main objective of this guide is to help students **save their time**, When we were there, we wasted so much time searching for the right tools to use in order to run this program, so I hope this guide will help those who need it
+
+* if you want to see the web page that we visited to get this program go to: <https://edoras.sdsu.edu/~eckberg/relationalcalculusemulator.html>
 
 ## Java 8 Installation (Required to run the relcalc.jar program)
 
