@@ -23,3 +23,9 @@
 * Steps To Install MySQL
 
   ![MySQLInstallationGuide](./MySQLInstallation.gif)
+
+## Create a database
+
+* [Download this file relcalcdump.sql](https://edoras.sdsu.edu/~eckberg/downloads/relcalcdump.sql)
+
+  ![CreateDatabase](./CreateDatabase.gif)
