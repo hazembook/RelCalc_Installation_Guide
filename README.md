@@ -29,3 +29,7 @@
 * [Download this file relcalcdump.sql](https://edoras.sdsu.edu/~eckberg/downloads/relcalcdump.sql)
 
   ![CreateDatabase](./CreateDatabase.gif)
+
+## relcalc usage
+
+  ![RelCalcUsage](./RelCalc_Usage.gif)
