@@ -2,15 +2,15 @@
 
 ## Java 8 Installation (Required to run the relcalc.jar program)
 
-**This is the most straight forward step just Download java 8 then install and run the relcalc.jar file**
+**This is the most straight forward step just Download java 8 then install it and run the relcalc.jar file**
+
+* [**Download relcalc.jar**](https://edoras.sdsu.edu/~eckberg/downloads/relcalc.jar)
 
 * [**Download Java_8**](https://www.java.com/en/download/manual.jsp)
 
 * Choose the **Windows Offline (64-bit)**
 
   ![Which java_8 installation to Download](./Java8Download_msedge.png)
-
-* [**Download relcalc.jar**](https://edoras.sdsu.edu/~eckberg/downloads/relcalc.jar)
 
 ## MySQL Installation (Required to connect the database and run SQL queries from the relcalc program)
 
@@ -26,7 +26,7 @@
 
 * Steps to Create a database (**password entered => root**)
 
-* [Download this file relcalcdump.sql](https://edoras.sdsu.edu/~eckberg/downloads/relcalcdump.sql)
+* [**Download this file relcalcdump.sql**](https://edoras.sdsu.edu/~eckberg/downloads/relcalcdump.sql)
 
   ![CreateDatabase](./CreateDatabase.gif)
 
