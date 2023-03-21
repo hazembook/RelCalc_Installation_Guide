@@ -19,3 +19,7 @@
 * Download the **517M** installation file
 
   ![Which MySQL installation to Download](./MySQLDownload_msedge.png)
+
+* Steps To Install MySQL
+
+  ![MySQLInstallationGuide](./MySQLInstallation.gif)
