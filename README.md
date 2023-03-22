@@ -1,10 +1,10 @@
-# The main objective of this guide is to help students **save their time**, When we were there, we wasted so much time searching for the right tools to use in order to run this program, so I hope this guide will help those who need it
+# The main objective of this guide is to help students **save their time**, When we were there, we wasted so much time searching for the right tools to use in order to run this application, so I hope this guide will help those who need it
 
-* if you want to see the web page that we visited to get this program go to: <https://edoras.sdsu.edu/~eckberg/relationalcalculusemulator.html>
+* if you want to see the web page that we visited to get this application go to: <https://edoras.sdsu.edu/~eckberg/relationalcalculusemulator.html>
 
-## Java 8 Installation (Required to run the relcalc.jar program)
+## Java 8 Installation (Required to run the relcalc.jar application)
 
-**This is the most straight forward step just Download java 8 then install it and run the relcalc.jar file**
+**This is the most straight forward step just Download java 8 then install it and run the relcalc.jar application**
 
 * [**Download relcalc.jar**](https://edoras.sdsu.edu/~eckberg/downloads/relcalc.jar)
 
@@ -14,7 +14,7 @@
 
   ![Which java_8 installation to Download](./Java8Download_msedge.png)
 
-## MySQL Installation (Required to connect the database and run SQL queries from the relcalc program)
+## MySQL Installation (Required to connect the database and run SQL queries from the relcalc application)
 
 * [**Download MySQL_5.7.41**](https://dev.mysql.com/downloads/windows/installer/5.7.html)
 
@@ -32,6 +32,6 @@
 
   ![CreateDatabase](./CreateDatabase.gif)
 
-## relcalc usage
+## How to use the application
 
   ![RelCalcUsage](./RelCalc_Usage.gif)
