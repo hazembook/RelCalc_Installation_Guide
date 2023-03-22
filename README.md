@@ -22,11 +22,11 @@
 
   ![Which MySQL installation to Download](./MySQLDownload_msedge.png)
 
-* Steps To Install MySQL  (**password entered => root**)
+* Steps To Install MySQL  (**when prompted for mysql root password enter => root**)
 
   ![MySQLInstallationGuide](./MySQLInstallation.gif)
 
-* Steps to Create a database (**password entered => root**)
+* Steps to Create a database (**when prompted for a password enter => root**)
 
 * [**Download this file relcalcdump.sql**](https://edoras.sdsu.edu/~eckberg/downloads/relcalcdump.sql)
 
